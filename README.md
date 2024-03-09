@@ -4,8 +4,7 @@
 
 <!-- GitHub Readme Streak Stats-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XColorful&theme=python-dark&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
-
-<img src='https://github.com/XColorful/gif/avator.gif' width="270" height="270">
+&emsp;<img width="150" src="https://github.com/XColorful/XColorful.github.io/blob/main/gif/avator.gif?raw=true" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XColorful&bg_color=2b2b2b&color=0091ff&line=5865f2&point=d35574&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
