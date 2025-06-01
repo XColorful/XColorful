@@ -3,7 +3,9 @@
 
 <!-- GitHub Readme Streak Stats-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XColorful&theme=python-dark&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+<img width="195" src="https://github.com/XColorful/XColorful.github.io/blob/main/gif/avator.gif?raw=true"/>
 
 <!--Most Used Languages-->
 <div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=XColorful&theme=radical&show_icons=true>
-&emsp;<img width="170" src="https://github.com/XColorful/XColorful.github.io/blob/main/gif/avator.gif?raw=true"/>
+&emsp;
+<img width="369" src="https://github.com/XColorful/XColorful.github.io/blob/main/pic/Erangle Pochinki 4：3.png?raw=true"/>
