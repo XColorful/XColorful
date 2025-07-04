@@ -11,5 +11,5 @@
 <div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=XColorful&theme=radical&show_icons=true>
 &emsp;
 <a href="https://github.com/XColorful/BattleRoyale">
-    <img width="369" src="https://github.com/XColorful/XColorful.github.io/blob/main/pic/zone_controller4：3.png?raw=true" alt="Custom BattleRoyale"/>
+    <img width="369" src="https://github.com/XColorful/XColorful.github.io/blob/main/pic/zone_controller4：3 4k.png?raw=true" alt="Custom BattleRoyale"/>
 </a>
