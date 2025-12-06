@@ -1,4 +1,12 @@
-# 你不需要成为光，你只需要撕开黑暗
+# 也许哲学家们只是在塌缩真理（n.），而问题在于真理（v.）
+
+这也许是真理。
+
+“这也许是真理”是真理？
+
+这也许是真理。
+
+## 最高公理：共存
 
 <!-- Xiao Colorful-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=33&pause=100&color=5865F2&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=33&lines=Xiao+Colorful;XColorful;XColor_ful)](https://git.io/typing-svg)
