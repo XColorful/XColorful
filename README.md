@@ -1,8 +1,12 @@
-# 遇事不决，量子哲学
+# 存在=熵增，解放真理
 
 哲学家们只是在真理自指，而问题在于改变看世界的眼睛。
 
-# Quantum Philosophy with Possibility
+简言之：
+
+**“遇事不决，量子哲学”**
+
+**Quantum Philosophy with Possibility.**
 
 <!-- Xiao Colorful-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=33&pause=100&color=5865F2&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=33&lines=Xiao+Colorful;XColorful;XColor_ful)](https://git.io/typing-svg)
