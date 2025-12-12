@@ -8,6 +8,12 @@
 
 **Quantum Philosophy with Possibility.**
 
+# 辩证怀疑主义
+
+**在不确定的世界中，坚定地走向解放**
+
+**“遇事不决，量子怀疑；认知提升，马哲行动”**
+
 <!-- Xiao Colorful-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=33&pause=100&color=5865F2&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=33&lines=Xiao+Colorful;XColorful;XColor_ful)](https://git.io/typing-svg)
 
