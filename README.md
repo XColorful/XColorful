@@ -1,4 +1,5 @@
-# 存在=熵增，解放真理
+# 自由人宣言
+## 存在=熵增，解放真理
 
 哲学家们只是在真理自指，而问题在于改变看世界的眼睛。
 
@@ -6,26 +7,27 @@
 
 **“遇事不决，量子哲学”**
 
-**Quantum Philosophy with Possibility.**
-
-# 辩证怀疑主义
+## 辩证怀疑主义
 
 **在不确定的世界中，坚定地走向解放**
 
-**“遇事不决，量子怀疑；认知提升，马哲行动”**
+**“遇事不决，量子怀疑；黑箱坍缩，解放真理”**
 
-<!-- Xiao Colorful-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=33&pause=100&color=5865F2&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=33&lines=Xiao+Colorful;XColorful;XColor_ful)](https://git.io/typing-svg)
+## 确定性=观测分辨率-叠加态维度
 
-<!-- GitHub Readme Streak Stats-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XColorful&theme=python-dark&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
-<a href="https://space.bilibili.com/300364311">
-    <img width="195" src="https://github.com/XColorful/XColorful.github.io/blob/main/gif/avator.gif?raw=true" alt="Bilibili Avator"/>
-</a>
+直到虚无尽头，只为不倒牛奶
 
-<!--Most Used Languages-->
-<div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=XColorful&theme=radical&show_icons=true>
-&emsp;
-<a href="https://github.com/XColorful/BattleRoyale">
-    <img width="369" src="https://github.com/XColorful/XColorful.github.io/blob/main/pic/zone_controller4：3 4k.png?raw=true" alt="Custom BattleRoyale"/>
-</a>
+## 革命微积分
+
+- 痛苦熵让奴隶制度穿透千年文明
+- 关系熵让封建帝皇化痛苦为太平
+- 剥削熵让一切坚固事物烟消云散
+- 社会熵让信息资本主义隔离内爆
+- 真理熵让真理封建主义延绵不绝
+- 观测熵让黑箱再无法掩盖熵下移
+
+阶级斗争，是争夺熵流方向的战争
+
+最后的自由人，叠加起来
+
+消灭下熵阶级
